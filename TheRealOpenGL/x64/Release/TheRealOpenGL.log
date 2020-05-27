@@ -1,0 +1,14 @@
+﻿  main.cpp
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(149,23): warning C4244:  'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(171,22): warning C4305:  '-=': truncation from 'double' to 'T'
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(171,22): warning C4305:         with
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(171,22): warning C4305:         [
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(171,22): warning C4305:             T=float
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(171,22): warning C4305:         ]
+F:\IamTheOpenGl\TheRealOpenGL\TheRealOpenGL\main.cpp(303,52): warning C4267:  'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 743 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TheRealOpenGL.vcxproj -> F:\IamTheOpenGl\TheRealOpenGL\x64\Release\TheRealOpenGL.exe
